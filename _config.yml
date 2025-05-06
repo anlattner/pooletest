@@ -9,7 +9,7 @@ title:               Poole
 tagline:             The Jekyll Butler
 url:                 http://anlattner.github.io/pooletest/
 paginate:            1
-baseurl:             ""
+baseurl:             "http://anlattner.github.io/pooletest/"
 
 # Assets
 #
